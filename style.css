@@ -1,0 +1,112 @@
+.food-first{
+    height: 250px;
+    width: 380px;
+    margin-right: 50px;
+}
+
+.food-second{
+    height: 250px;
+    width: 380px;
+}
+
+.food-third{
+    height: 250px;
+    width: 380px;
+    margin-left: 50px;
+}
+
+.drink-first{
+    height: 250px;
+    width: 250px;
+    margin-left: 50px;
+}
+
+.drink-second{
+    height: 250px;
+    width: 250px;
+}
+
+.drink-third{
+    height: 250px;
+    width: 180px;
+}
+
+.drink-fourth{
+    height: 250px;
+    width: 250px;
+}
+
+.dissertations-first{
+    height: 250px;
+    width: 330px;
+    margin-right: 50px;
+}
+
+.dissertations-second{
+    height: 250px;
+    width: 330px;
+    margin-left: 50px;
+}
+
+.dissertations-third{
+    height: 250px;
+    width: 330px;
+    margin-left: 100px;
+}
+
+.main-dissertations{
+display: flex;
+justify-content: center;
+}
+
+.main-dishes{
+    display: flex;
+    justify-content: center;
+    }
+
+.main-drinks{
+    display: flex;
+    justify-content: center;
+}
+
+.section-dishes{
+font-family: 'Roboto';
+font-weight: 500;
+font-size: 30px;
+}
+
+.section-dissertations{
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 30px;
+}
+
+.section-drinken{
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 30px;
+}
+
+body{
+    background-color: #232323;
+}
+
+.title{
+    color: white;
+}
+
+.text, h4{
+    color: white;
+}
+
+.header-logo{
+    color: rgb(255, 255, 255);
+}
+
+.like{
+    color: rgb(255, 255, 127);
+}
+
+.tables{
+    color: white;
+}
